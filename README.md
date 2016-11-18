@@ -1,2 +1,2 @@
 # gitskills
-skills
+Git is a distributed version control system.
